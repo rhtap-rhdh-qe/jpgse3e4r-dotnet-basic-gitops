@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jpgse3e4r-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jpgse3e4r-dotnet-basic
